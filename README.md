@@ -1,7 +1,7 @@
 ## Dev Dependencies
-[NodeJS](https://nodejs.org/en/) - LTS Version
-[NestJS CLI](https://docs.nestjs.com/cli/overview)
-[MySQL](https://dev.mysql.com/downloads/installer/)
+[NodeJS](https://nodejs.org/en/) - LTS Version<br />
+[NestJS CLI](https://docs.nestjs.com/cli/overview)<br />
+[MySQL](https://dev.mysql.com/downloads/installer/)<br />
 [Visual Studio Code](https://code.visualstudio.com/) or another editor as your preference
 
 ## Installation
